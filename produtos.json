@@ -38,6 +38,61 @@
           "id": "prod-mua02rlw-fg2q0z",
           "nome": "CAFÉ MARATAR",
           "codigoBarras": "7896089006032"
+        },
+        {
+          "id": "prod-mua3onxb-k0rep0",
+          "nome": "COCA COLA 1L",
+          "codigoBarras": "7894900027044"
+        },
+        {
+          "id": "prod-mua3qf2v-31facs",
+          "nome": "ITAIPAVA 550ML",
+          "codigoBarras": "7897395040727"
+        },
+        {
+          "id": "prod-mua4c3m4-t2579u",
+          "nome": "INVICTO COCO 500ML",
+          "codigoBarras": "7898031171416"
+        },
+        {
+          "id": "prod-muafe5md-tfr95u",
+          "nome": "DAN GUTTY MORANGO 450G",
+          "codigoBarras": "7898903197032"
+        },
+        {
+          "id": "prod-muafhmmh-pklm07",
+          "nome": "IOGUTE MORANGO ZERO 1,15KG",
+          "codigoBarras": "7898755200331"
+        },
+        {
+          "id": "prod-muafkewv-b8xnkk",
+          "nome": "DANONE ZERO MORANGO 1,20KG",
+          "codigoBarras": "7891025125372"
+        },
+        {
+          "id": "prod-muafm7a2-s9hn58",
+          "nome": "ANTARCTICA SODA LIMONADA 1L",
+          "codigoBarras": "7891991002578"
+        },
+        {
+          "id": "prod-muafokjn-sw3k7f",
+          "nome": "TEK BOMD SAINT-GOBAIN 20G",
+          "codigoBarras": "7898904869815"
+        },
+        {
+          "id": "prod-muafqbcm-rjjx2b",
+          "nome": "GOTA PICANTE 150ML",
+          "codigoBarras": "7898286190316"
+        },
+        {
+          "id": "prod-muafsfm4-551afy",
+          "nome": "TAMBAÚ CATCHUP 830G",
+          "codigoBarras": "7896945400813"
+        },
+        {
+          "id": "prod-muafurxx-pnlbuk",
+          "nome": "REQUEIJÃO CREMOSO TRADICIONAL 200G",
+          "codigoBarras": "7896353301184"
         }
       ]
     }

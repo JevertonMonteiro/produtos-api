@@ -1,0 +1,45 @@
+{
+  "categorias": [
+    {
+      "id": "cat-mu9zofpx-wi5zs2",
+      "nome": "Mercearia",
+      "produtos": [
+        {
+          "id": "prod-mu9zs738-0vtn0o",
+          "nome": "ARROZ MOENDA BARBOLIZADO",
+          "codigoBarras": "7896389600176"
+        },
+        {
+          "id": "prod-mu9zv9sk-6rawih",
+          "nome": "FEIJÃO CARIOCA MUI NOBRE",
+          "codigoBarras": "7898668660017"
+        },
+        {
+          "id": "prod-mu9zwxyk-nk1a8u",
+          "nome": "FEIJÃO SORRISO",
+          "codigoBarras": "7898907040501"
+        },
+        {
+          "id": "prod-mu9zyfms-sy4d65",
+          "nome": "SPAGHETTI BONSABOR",
+          "codigoBarras": "7898230897667"
+        },
+        {
+          "id": "prod-mu9zzpio-fbn2dh",
+          "nome": "AÇUCAR CORURIPE",
+          "codigoBarras": "7896065200072"
+        },
+        {
+          "id": "prod-mua01d04-z4h60l",
+          "nome": "FLOCÃO DE MILHO NORDESTE",
+          "codigoBarras": "7898154870012"
+        },
+        {
+          "id": "prod-mua02rlw-fg2q0z",
+          "nome": "CAFÉ MARATAR",
+          "codigoBarras": "7896089006032"
+        }
+      ]
+    }
+  ]
+}

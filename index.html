@@ -159,6 +159,33 @@
             console.error(erro);
             exibirProdutos(dadosLocais);
         });
+    fetch("https://raw.githubusercontent.com/JevertonMonteiro/produtos-api/main/produtos.json")
+
+    .then(resposta => {
+
+        if (!resposta.ok) {
+            throw new Error(
+                `Erro HTTP: ${resposta.status}`
+            );
+        }
+
+        return resposta.json();
+    })
+
+    .then(dados => {
+
+        console.log("Dados recebidos da API:", dados);
+
+        exibirProdutos(dados);
+    })
+
+    .catch(erro => {
+
+        console.error("Erro ao carregar produtos:", erro);
+
+        document.getElementById("status").textContent =
+            "Erro ao carregar os produtos.";
+    });
 
 </script>
 

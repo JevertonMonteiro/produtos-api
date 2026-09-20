@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Produtos</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        padding: 30px;
+        font-family: Arial, sans-serif;
+        background: #f5f5f5;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: auto;
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+    }
+
+    h1 {
+        margin-top: 0;
+    }
+
+    .categoria {
+        margin-top: 30px;
+    }
+
+    .categoria h2 {
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 10px;
+    }
+
+    .produto {
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin-top: 10px;
+        border-radius: 8px;
+    }
+
+    .produto h3 {
+        margin: 0 0 8px;
+    }
+
+    .codigo {
+        color: #666;
+        font-size: 14px;
+    }
+
+    #status {
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Produtos</h1>
+
+    <div id="status">
+        Carregando produtos...
+    </div>
+
+    <div id="listaProdutos"></div>
+
+</div>
+<script>
+
+    const dadosLocais = {
+        "categorias": [
+            {
+                "nome": "Mercearia",
+                "produtos": [
+                    { "nome": "ARROZ MOENDA BARBOLIZADO", "codigoBarras": "7896389600176" },
+                    { "nome": "FEIJÃO CARIOCA MUI NOBRE", "codigoBarras": "7898668660017" },
+                    { "nome": "FEIJÃO SORRISO", "codigoBarras": "7898907040501" },
+                    { "nome": "SPAGHETTI BONSABOR", "codigoBarras": "7898230897667" },
+                    { "nome": "AÇUCAR CORURIPE", "codigoBarras": "7896065200072" },
+                    { "nome": "FLOCÃO DE MILHO NORDESTE", "codigoBarras": "7898154870012" },
+                    { "nome": "CAFÉ MARATAR", "codigoBarras": "7896089006032" }
+                ]
+            }
+        ]
+    };
+
+    function exibirProdutos(dados) {
+        const lista = document.getElementById("listaProdutos");
+        const status = document.getElementById("status");
+
+        let quantidadeProdutos = 0;
+
+        dados.categorias.forEach(categoria => {
+
+            const categoriaDiv = document.createElement("div");
+
+            categoriaDiv.classList.add("categoria");
+
+            categoriaDiv.innerHTML = `
+                <h2>${categoria.nome}</h2>
+            `;
+
+            categoria.produtos.forEach(produto => {
+
+                quantidadeProdutos++;
+
+                const produtoDiv = document.createElement("div");
+
+                produtoDiv.classList.add("produto");
+
+                produtoDiv.innerHTML = `
+                    <h3>${produto.nome}</h3>
+
+                    <div class="codigo">
+                        Código de barras:
+                        ${produto.codigoBarras}
+                    </div>
+                `;
+
+                categoriaDiv.appendChild(produtoDiv);
+            });
+
+            lista.appendChild(categoriaDiv);
+        });
+
+        status.textContent = `${quantidadeProdutos} produtos encontrados.`;
+    }
+
+    fetch("produtos.json")
+
+        .then(resposta => {
+
+            if (!resposta.ok) {
+                throw new Error(
+                    "Não foi possível carregar o arquivo produtos.json"
+                );
+            }
+
+            return resposta.json();
+        })
+
+        .then(exibirProdutos)
+
+        .catch(erro => {
+
+            console.error(erro);
+            exibirProdutos(dadosLocais);
+        });
+
+</script>
+
+</body>
+
+</html>

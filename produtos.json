@@ -1,4 +1,18 @@
 {
+  "usuarios": [
+    {
+      "id": "user-admin",
+      "usuario": "admin",
+      "senha": "admin123",
+      "perfil": "admin"
+    },
+    {
+      "id": "user-1789963540201",
+      "usuario": "lariza",
+      "senha": "123456",
+      "perfil": "user"
+    }
+  ],
   "categorias": [
     {
       "id": "cat-mu9zofpx-wi5zs2",

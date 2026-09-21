@@ -1,1 +1,145 @@
-
+{
+  "categorias": [
+    {
+      "id": "cat-mu9zofpx-wi5zs2",
+      "nome": "Mercearia",
+      "produtos": [
+        {
+          "id": "prod-mu9zs738-0vtn0o",
+          "nome": "ARROZ MOENDA BARBOLIZADO",
+          "codigoBarras": "7896389600176"
+        },
+        {
+          "id": "prod-mu9zv9sk-6rawih",
+          "nome": "FEIJÃO CARIOCA MUI NOBRE",
+          "codigoBarras": "7898668660017"
+        },
+        {
+          "id": "prod-mu9zwxyk-nk1a8u",
+          "nome": "FEIJÃO SORRISO",
+          "codigoBarras": "7898907040501"
+        },
+        {
+          "id": "prod-mu9zyfms-sy4d65",
+          "nome": "SPAGHETTI BONSABOR",
+          "codigoBarras": "7898230897667"
+        },
+        {
+          "id": "prod-mu9zzpio-fbn2dh",
+          "nome": "AÇUCAR CORURIPE",
+          "codigoBarras": "7896065200072"
+        },
+        {
+          "id": "prod-mua01d04-z4h60l",
+          "nome": "FLOCÃO DE MILHO NORDESTE",
+          "codigoBarras": "7898154870012"
+        },
+        {
+          "id": "prod-mua02rlw-fg2q0z",
+          "nome": "CAFÉ MARATAR",
+          "codigoBarras": "7896089006032"
+        },
+        {
+          "id": "prod-mua3onxb-k0rep0",
+          "nome": "COCA COLA 1L",
+          "codigoBarras": "7894900027044"
+        },
+        {
+          "id": "prod-mua3qf2v-31facs",
+          "nome": "ITAIPAVA 550ML",
+          "codigoBarras": "7897395040727"
+        },
+        {
+          "id": "prod-mua4c3m4-t2579u",
+          "nome": "INVICTO COCO 500ML",
+          "codigoBarras": "7898031171416"
+        },
+        {
+          "id": "prod-muafe5md-tfr95u",
+          "nome": "DAN GUTTY MORANGO 450G",
+          "codigoBarras": "7898903197032"
+        },
+        {
+          "id": "prod-muafhmmh-pklm07",
+          "nome": "IOGUTE MORANGO ZERO 1,15KG",
+          "codigoBarras": "7898755200331"
+        },
+        {
+          "id": "prod-muafkewv-b8xnkk",
+          "nome": "DANONE ZERO MORANGO 1,20KG",
+          "codigoBarras": "7891025125372"
+        },
+        {
+          "id": "prod-muafm7a2-s9hn58",
+          "nome": "ANTARCTICA SODA LIMONADA 1L",
+          "codigoBarras": "7891991002578"
+        },
+        {
+          "id": "prod-muafokjn-sw3k7f",
+          "nome": "TEK BOMD SAINT-GOBAIN 20G",
+          "codigoBarras": "7898904869815"
+        },
+        {
+          "id": "prod-muafqbcm-rjjx2b",
+          "nome": "GOTA PICANTE 150ML",
+          "codigoBarras": "7898286190316"
+        },
+        {
+          "id": "prod-muafsfm4-551afy",
+          "nome": "TAMBAÚ CATCHUP 830G",
+          "codigoBarras": "7896945400813"
+        },
+        {
+          "id": "prod-muafurxx-pnlbuk",
+          "nome": "REQUEIJÃO CREMOSO TRADICIONAL 200G",
+          "codigoBarras": "7896353301184"
+        },
+        {
+          "id": "prod-muan1ygn-4bab17",
+          "nome": "ROTHMANS BLUE",
+          "codigoBarras": "78944510"
+        },
+        {
+          "id": "prod-muan47uf-0mmk55",
+          "nome": "DONA CLARA 100G",
+          "codigoBarras": "7896490288898"
+        },
+        {
+          "id": "prod-muan5lj2-mqliet",
+          "nome": "COLORÍFICO CORINGA 100G",
+          "codigoBarras": "7896481140037"
+        },
+        {
+          "id": "prod-muan7jxl-rhu86r",
+          "nome": "DONA CLARA TEMPERO 100G",
+          "codigoBarras": "7896490288836"
+        },
+        {
+          "id": "prod-muan92nb-uf7ts2",
+          "nome": "CUP NOODLES COSTELA 68G",
+          "codigoBarras": "7891079013083"
+        },
+        {
+          "id": "prod-muanaq1a-ifc3gh",
+          "nome": "SAL LEBRE CHURRASCO 1KG",
+          "codigoBarras": "726414100814"
+        },
+        {
+          "id": "prod-muanchq2-9b62r0",
+          "nome": "VITARELLA LÁMEN CARNE",
+          "codigoBarras": "7896213005160"
+        },
+        {
+          "id": "prod-muane9uf-1hy98t",
+          "nome": "ESPECIAL MILHO PIPOCA 500G",
+          "codigoBarras": "7898907041065"
+        },
+        {
+          "id": "prod-muanft23-nmxjil",
+          "nome": "PILAR CREAN CRACKER",
+          "codigoBarras": "7896005030356"
+        }
+      ]
+    }
+  ]
+}

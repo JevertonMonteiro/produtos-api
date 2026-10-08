@@ -138,6 +138,246 @@
           "id": "prod-muanft23-nmxjil",
           "nome": "PILAR CREAN CRACKER",
           "codigoBarras": "7896005030356"
+        },
+        {
+          "id": "prod-muarblwa-kpvicg",
+          "nome": "ÁGUA MINERAL É LEVE COM GÁS 510ML",
+          "codigoBarras": "7898964734047"
+        },
+        {
+          "id": "prod-muarlxza-hrodsz",
+          "nome": "ÁGUA SANITÁRIA LIMPO 1L",
+          "codigoBarras": "7898768030000"
+        },
+        {
+          "id": "prod-muarog5p-imhmbk",
+          "nome": "DESINFETANTE URCA 2L",
+          "codigoBarras": "7896056402485"
+        },
+        {
+          "id": "prod-muarphih-75qsa1",
+          "nome": "DESINFETANTE UAU 2L",
+          "codigoBarras": "7891242810181"
+        },
+        {
+          "id": "prod-muarsbbj-d3061l",
+          "nome": "SABÃO EM PEDA BEM-TE-VI",
+          "codigoBarras": "7898031174738"
+        },
+        {
+          "id": "prod-muaru49u-sd8i0a",
+          "nome": "ESPONJA DE AÇO LUSTRO 40g",
+          "codigoBarras": "7891022865004"
+        },
+        {
+          "id": "prod-mucrahyq-nuw8ly",
+          "nome": "SAL LESTE 1KG",
+          "codigoBarras": "7898282840154"
+        },
+        {
+          "id": "prod-mucsqej0-873hk0",
+          "nome": "RUFFLES CHURRASCO 33G",
+          "codigoBarras": "7892840825034"
+        },
+        {
+          "id": "prod-mucsrgxy-aw9wcu",
+          "nome": "RUFFLES CEBOLA E SALSA 33G",
+          "codigoBarras": "7892840664633"
+        },
+        {
+          "id": "prod-mucssdpc-1bo4pd",
+          "nome": "RUFFLES ORIGINAL 33G",
+          "codigoBarras": "7892840824860"
+        },
+        {
+          "id": "prod-mucsttre-irmplo",
+          "nome": "HITS CHURRASCO 80G",
+          "codigoBarras": "7896005217498"
+        },
+        {
+          "id": "prod-mucsumu6-lj0q2l",
+          "nome": "HITS CEBOLA E SALSA 80G",
+          "codigoBarras": "7896005217504"
+        },
+        {
+          "id": "prod-mucsvqov-0mhdpx",
+          "nome": "FANDANGOS PRESUNTO 21G",
+          "codigoBarras": "7892840825072"
+        },
+        {
+          "id": "prod-mucsww1n-b4i2xz",
+          "nome": "CHEETOS QUEUJO 21G",
+          "codigoBarras": "7892840824761"
+        },
+        {
+          "id": "prod-mucsxwai-myjfms",
+          "nome": "CEBOLITOS 21G",
+          "codigoBarras": "7892840815011"
+        },
+        {
+          "id": "prod-mucsz5j0-zex15v",
+          "nome": "PURURUCA BACON 35G",
+          "codigoBarras": "7898029658653"
+        },
+        {
+          "id": "prod-muct0ip7-nl3au1",
+          "nome": "PURURUCA CEBOLA SALSA 35G",
+          "codigoBarras": "7898029658615"
+        },
+        {
+          "id": "prod-muct1xil-2zh8si",
+          "nome": "SCRUSCH BATATA PALHA 80G",
+          "codigoBarras": "7891091063301"
+        },
+        {
+          "id": "prod-muct3kkd-e53mx7",
+          "nome": "DORITOS QUEIJO MACHO 37G",
+          "codigoBarras": "7892840822408"
+        },
+        {
+          "id": "prod-muct4xxd-mk61j2",
+          "nome": "DORITOS SWEET CHILI 37G",
+          "codigoBarras": "7892840822439"
+        },
+        {
+          "id": "prod-muct5xs6-gfynb1",
+          "nome": "DORITOS PIZZA 48G",
+          "codigoBarras": "7892840820053"
+        },
+        {
+          "id": "prod-muct8myj-lhhk0n",
+          "nome": "DORITOS PIMENTA MEXICANA 60G",
+          "codigoBarras": "7892840823481"
+        },
+        {
+          "id": "prod-muct78i9-5f8458",
+          "nome": "DORITOS FLAMIN'HOT 60G",
+          "codigoBarras": "7892840822378"
+        },
+        {
+          "id": "prod-mudamb1z-j227yv",
+          "nome": "COCA COLA 200ML",
+          "codigoBarras": "78908901"
+        },
+        {
+          "id": "prod-mudc7e75-vsx1vl",
+          "nome": "LEITE EM PÓ INTEGRAL CAMILA 200G",
+          "codigoBarras": "7898949565017"
+        },
+        {
+          "id": "prod-muhvgvgp-0efj75",
+          "nome": "ANTARCTICA 350ML",
+          "codigoBarras": "7891991000796"
+        },
+        {
+          "id": "prod-muzucze8-ncubpa",
+          "nome": "Café Puro Solúvel Granulado Tradicional 40g",
+          "codigoBarras": "7896089006056"
+        },
+        {
+          "id": "prod-muzuh9z0-ieksdm",
+          "nome": "Cuscuz Coringa Farinha de Milho Flocada Sem Sal",
+          "codigoBarras": "7896481130229"
+        },
+        {
+          "id": "prod-muzuixl8-ruhajo",
+          "nome": "Nissin Lámen sabor Galinha Caipira",
+          "codigoBarras": "7891079000229"
+        },
+        {
+          "id": "prod-muzvrd2d-xdrgfe",
+          "nome": "Doce Mel Broa Goiabada",
+          "codigoBarras": "7895241588218"
+        },
+        {
+          "id": "prod-muzvt25x-8pxdy0",
+          "nome": "Biscoito Doce Mel Meia Lua",
+          "codigoBarras": "7895241526197"
+        },
+        {
+          "id": "prod-muzvtun8-p2fxox",
+          "nome": "Biscoito Doce Mel Sete Capas",
+          "codigoBarras": "7895241526210"
+        },
+        {
+          "id": "prod-muzvw49t-dnrr8d",
+          "nome": "Biscoito Doce Mel Folhado Doce",
+          "codigoBarras": "7895241526166"
+        },
+        {
+          "id": "prod-muzw0dbj-lr05uz",
+          "nome": "Biscoito Doce Mel Broa Coco",
+          "codigoBarras": "7895241526180"
+        },
+        {
+          "id": "prod-muzw1opm-7kw2od",
+          "nome": "Biscoito Doce Mel Tareco",
+          "codigoBarras": "7895241529563"
+        },
+        {
+          "id": "prod-muzw43zh-gbptnn",
+          "nome": "Doce mel Rocombole",
+          "codigoBarras": "7895241588201"
+        },
+        {
+          "id": "prod-muzw55gq-ewscx4",
+          "nome": "Biscoito Doce mel Salgadinho Pimenta",
+          "codigoBarras": "7895241527552"
+        },
+        {
+          "id": "prod-muzw7zyf-u79js9",
+          "nome": "Biscoitos Bom Trigo Biscoito Canela Amarela",
+          "codigoBarras": "040141381552"
+        },
+        {
+          "id": "prod-muzw9fy1-wdf7k5",
+          "nome": "Bom Trigo Biscoito Canela",
+          "codigoBarras": "040141381569"
+        },
+        {
+          "id": "prod-muzwz2p0-m5h93x",
+          "nome": "Biscoitos Bom Trigo Folheado de Coco",
+          "codigoBarras": "040141381606"
+        },
+        {
+          "id": "prod-muzx0q3e-tdgrbx",
+          "nome": "Biscoito Bom Trigo Água e Sal",
+          "codigoBarras": "040141381484"
+        },
+        {
+          "id": "prod-muzx021d-uz6krh",
+          "nome": "Bom Trigo Pasteizinhos",
+          "codigoBarras": "040141381590"
+        },
+        {
+          "id": "prod-muzx5vfm-cmkwjo",
+          "nome": "Biscoitos Bom Trigo Bolachão",
+          "codigoBarras": "040141381460"
+        },
+        {
+          "id": "prod-muzx6wdw-k6qcts",
+          "nome": "Bom Trigo Salgadinhos Cebola e Salsa",
+          "codigoBarras": "040141381668"
+        },
+        {
+          "id": "prod-muzxc3m8-ua8nxp",
+          "nome": "Pão de Forma Tradicional",
+          "codigoBarras": "7898185760221"
+        },
+        {
+          "id": "prod-muzxed5r-ztujyk",
+          "nome": "Pão de Forma Integral",
+          "codigoBarras": "7898996402617"
+        },
+        {
+          "id": "prod-muzxgo74-noc7cc",
+          "nome": "Massa para Tapioca",
+          "codigoBarras": "7898113940299"
+        },
+        {
+          "id": "prod-muzxhnro-gsvqxr",
+          "nome": "Biscoito Coquinho Tradicional",
+          "codigoBarras": "7898185760832"
         }
       ]
     }
